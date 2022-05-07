@@ -7,7 +7,8 @@ namespace TesteMatriz
         static void Main(string[] args)
         {
 
-            //O programa receberá uma matriz N por M, você escolherá X onde X é um valor qualquer da matriz, em seguida o programa te dirá quais valores estão acima, abaixo, esquerda e direita do valor X;
+            /*O programa receberá uma matriz N por M, você escolherá X onde X é um valor qualquer da matriz, em seguida o programa te dirá quais valores 
+            estão acima, abaixo, esquerda e direita do valor X*/
 
             int[,] matriz;
             int n, m, x;
